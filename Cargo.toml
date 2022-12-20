@@ -1,0 +1,9 @@
+[package]
+name = "fixit"
+version = "0.1.0"
+edition = "2021"
+authors = ["David Smoker"]
+description = "Converts infix (human-readable) expression tokens into postfix (Reverse Polish Notation) order"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
